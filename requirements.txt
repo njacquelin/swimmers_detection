@@ -1,0 +1,7 @@
+pandas~=0.25.2
+torchvision~=0.4.2
+scikit-image~=0.15.0
+numpy~=1.19.1
+matplotlib~=3.1.1
+scipy~=1.5.2
+opencv==3.4.1
