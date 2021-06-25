@@ -3,7 +3,16 @@
 Install the requirements. If some are missing, don't hesitate to add them to the list.  
 The project has originally been done in python 3.8
 
-# training
+
+# Models Uses
+
+Models weights present in ./modesl directory.  
+colorShifts_deeper_zoomedOut_200epochs.pth needs deeper_Unet_like model  
+less_dataAug_130epochs.pth needs Unet_like model  
+Anaylse a video with file video_display.py
+
+
+# Training
 
 For the training you need to have images of swimmers and there heatmap where the heatmap identifies the position of the swimmers.
 So you need to create the heatmaps corresponding to your bounding boxes. The file "data_gen.py" may help or the 
