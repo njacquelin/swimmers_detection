@@ -46,6 +46,10 @@ batch_size = 16
 The variables are here filled with template values, but you need to enter yours.  
 Once it's done, launch this code. You'll see the losses (train and test) at each epoch.
 
+## Dataset
+
+The Swimm_400 dataset is available at this link : [Swimm_400](http://dataroom.liris.cnrs.fr:8080/s/1c9e0mhT9z1qXBS)
+
 ## Displays
 
 2 curves appear when you train a model :
