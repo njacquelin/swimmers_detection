@@ -1,0 +1,2 @@
+All training data (Swimm_400) available at this link :
+http://dataroom.liris.cnrs.fr:8080/s/1c9e0mhT9z1qXBS
