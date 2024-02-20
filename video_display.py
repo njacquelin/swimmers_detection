@@ -82,14 +82,14 @@ if __name__=='__main__':
     # path = 'deeper_zoomedOut_'+str(epochs)+'epochs.pth'
     # path = 'yes_homography_' + str(epochs) + 'epochs.pth'
     # path = 'yes_homography_BCE' + str(epochs) + 'epochs.pth'
-    # path = "yes_130epochs.pth"
-    path = 'student115epochs.pth'
+    path = "yes_130epochs.pth"
+    # path = 'student115epochs.pth'
 
     # model = Unet_like()
     model = deeper_Unet_like()
 
-    models_path = './student_models/'
-    # models_path = './models/'
+    # models_path = './student_models/'
+    models_path = './models/'
 
     full_images_path = '/home/nicolas/swimmers_tracking/extractions/Gwangju_frames'
     # full_images_path = '/home/nicolas/swimmers_tracking/extractions/Angers19_frames'
