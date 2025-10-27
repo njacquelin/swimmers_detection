@@ -4,19 +4,19 @@ This repo corresponds to the implementation of [this paper](https://hal.science/
 
 Please, refer to it by citing:
 
-  @inproceedings{jacquelin:hal-03358375,
-    TITLE = {{Detecting Swimmers in Unconstrained Videos with Few Training Data}},
-    AUTHOR = {Jacquelin, Nicolas and Vuillemot, Romain and Duffner, Stefan},
-    URL = {https://hal.science/hal-03358375},
-    BOOKTITLE = {{Machine Learning and Data Mining for Sports Analytics}},
-    ADDRESS = {Ghand, Belgium},
-    YEAR = {2021},
-    MONTH = Sep,
-    KEYWORDS = {Computer Vision ; Swimming ; Small Dataset ; Segmentation},
-    PDF = {https://hal.science/hal-03358375v1/file/Detecting%20Swimmers%20in%20Unconstrained%20Videos%20with%20Few%20Training%20Data.pdf},
-    HAL_ID = {hal-03358375},
-    HAL_VERSION = {v1},
-  }
+    @inproceedings{jacquelin:hal-03358375,
+      TITLE = {{Detecting Swimmers in Unconstrained Videos with Few Training Data}},
+      AUTHOR = {Jacquelin, Nicolas and Vuillemot, Romain and Duffner, Stefan},
+      URL = {https://hal.science/hal-03358375},
+      BOOKTITLE = {{Machine Learning and Data Mining for Sports Analytics}},
+      ADDRESS = {Ghand, Belgium},
+      YEAR = {2021},
+      MONTH = Sep,
+      KEYWORDS = {Computer Vision ; Swimming ; Small Dataset ; Segmentation},
+      PDF = {https://hal.science/hal-03358375v1/file/Detecting%20Swimmers%20in%20Unconstrained%20Videos%20with%20Few%20Training%20Data.pdf},
+      HAL_ID = {hal-03358375},
+      HAL_VERSION = {v1},
+    }
 
 
 
