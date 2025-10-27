@@ -3,6 +3,7 @@
 This repo corresponds to the implementation of [this paper](https://hal.science/hal-03358375) titled : Detecting Swimmers in Unconstrained Videos with Few Training Data.
 
 Please, refer to it by citing:
+
   @inproceedings{jacquelin:hal-03358375,
     TITLE = {{Detecting Swimmers in Unconstrained Videos with Few Training Data}},
     AUTHOR = {Jacquelin, Nicolas and Vuillemot, Romain and Duffner, Stefan},
